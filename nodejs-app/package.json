@@ -9,4 +9,7 @@
     "express": "4.20",
     "html-errors": "latest"
   }
+  "scripts": {
+  	"build": "npm install"
+  }
 }
